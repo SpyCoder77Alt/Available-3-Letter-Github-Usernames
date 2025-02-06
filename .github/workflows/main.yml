@@ -1,0 +1,40 @@
+name: Check 3-Letter Usernames Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at 00:00 UTC.
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # Needed for pushing changes.
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"  # Use your desired Python version.
+
+      - name: Install dependencies
+        run: |
+          pip install requests tqdm
+
+      - name: Run username checker script
+        run: python action.py
+
+      - name: Commit updated README if there are changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Update README with available 3-letter usernames [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
