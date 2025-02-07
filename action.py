@@ -13,7 +13,7 @@ MIN_LENGTH = 1
 MAX_LENGTH = 3  # Only 3-letter usernames.
 MAX_RETRIES = 3
 REQUEST_DELAY = 0.1  # Delay (in seconds) between retries
-CONCURRENCY = 15    # Lower the concurrency for GitHub Actions
+CONCURRENCY = 10    # Lower the concurrency for GitHub Actions
 
 def generate_usernames(min_length, max_length):
     """Generate all possible usernames with the given lengths."""
