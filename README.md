@@ -2,13 +2,20 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
-- 11b
-- 12g
 - 2
-- 2f8
-- 2f9
-- 2gf
-- 2gw
-- 2gx
-- m8f
+- 400
+- 401
+- 402
+- 403
+- 406
+- 408
+- 8t2
+- 8tl
+- 8tw
+- 8tz
+- 8uc
+- fe3
+- fe8
+- tvn
 - w
+- yst
