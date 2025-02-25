@@ -2,19 +2,29 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
-- 0q4
-- 0q5
-- 0q6
-- 0q7
-- 0qh
-- 0qj
-- 0qn
+- 185
+- 18u
 - 2
-- 2og
-- 2ov
-- 2oz
-- 8b1
-- 8bf
-- 8bm
-- 8bx
+- 8w4
+- 8w5
+- 8w6
+- 8w7
+- 8wq
+- 8xg
+- 8xh
+- 8xj
+- 8xk
+- 8xm
+- 8xo
+- 8xq
+- f54
+- f5h
+- f5k
+- f5o
+- f5w
+- kq6
+- q7b
+- q7f
+- q7l
+- q7m
 - w
