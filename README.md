@@ -3,10 +3,10 @@
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
 - 2
-- n52
-- n55
-- n5j
-- n5s
-- n6c
-- n6d
+- 431
+- 433
+- 436
+- 44t
 - w
+- x2t
+- x2x
