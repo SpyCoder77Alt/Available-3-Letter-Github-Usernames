@@ -2,15 +2,9 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
+- 087
+- 09a
+- 09f
 - 2
-- 9w4
-- 9w6
-- 9w8
-- 9wc
-- 9wg
-- 9wt
-- 9wv
-- 9wx
+- n8q
 - w
-- x98
-- x9h
