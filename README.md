@@ -2,14 +2,16 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
-- 0v5
-- 0v6
-- 0vd
-- 0vw
+- 0u3
+- 0u5
+- 0ue
+- 0uu
+- 0uy
+- 0vf
+- 0y1
+- 0yv
+- 0yy
 - 2
-- co4
-- co7
-- on4
-- td2
-- v1f
+- o05
+- o1v
 - w
