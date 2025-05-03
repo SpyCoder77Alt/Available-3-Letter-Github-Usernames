@@ -2,9 +2,10 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
-- 0a6
-- 0b3
-- 0bz
-- 0cc
 - 2
 - w
+- y4i
+- y5x
+- y7u
+- y8v
+- y9a
