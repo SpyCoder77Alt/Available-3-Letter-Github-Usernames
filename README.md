@@ -3,19 +3,19 @@
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
 - 2
-- 50d
-- 50j
-- 50l
-- 5z0
-- 5z3
-- 5z4
-- 5z6
-- 5z7
-- 5z8
-- 5zw
-- c5z
-- c6g
-- c6j
-- c6m
-- vav
+- 3u6
+- 3vb
+- 3vf
+- 3vh
+- 3vu
+- 3vx
+- ax5
+- ayo
+- i16
+- i1v
+- o22
 - w
+- x31
+- x36
+- x3j
+- x3x
