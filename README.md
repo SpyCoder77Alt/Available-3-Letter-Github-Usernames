@@ -2,16 +2,14 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
+- 08w
+- 1ar
 - 2
-- 2i6
-- 8s0
-- 8s1
-- 8s5
-- 8te
-- 8tj
-- 8tl
-- 8tw
 - a31
-- dsr
-- vf4
+- dd7
+- jkt
+- mj3
+- mj5
+- mj7
+- umg
 - w
