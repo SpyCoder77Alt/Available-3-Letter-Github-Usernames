@@ -2,11 +2,21 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
-- 0o6
-- 0p6
-- 0qh
-- 0qj
-- 0qk
 - 2
-- pw9
+- 5ac
+- 5aq
+- 9q1
+- 9q2
+- 9q4
+- 9q6
+- 9q8
+- 9qp
+- 9qs
+- 9qu
+- 9qv
+- bhp
+- c7u
+- c7y
+- c7z
 - w
+- xxt
