@@ -2,25 +2,26 @@
 
 This README is automatically updated daily with the list of available 3-letter GitHub usernames.
 
-- 0ua
-- 0ub
-- 0ue
-- 0uu
-- 0uy
 - 2
-- 793
-- 795
-- 79j
-- 79z
-- 90b
-- 9z1
-- 9z3
-- 9z4
-- e1r
-- gnu
-- pr4
-- pr7
-- pr9
+- 8h0
+- 8h1
+- 8h3
+- 8h4
+- 8h5
+- 8h7
+- 8he
+- 8hh
+- 8hl
+- 8hn
+- 8hy
+- es3
+- g34
+- g3u
+- g4f
+- nn6
+- u7u
+- ul6
+- ux5
+- uy0
+- vzz
 - w
-- zh8
-- zif
